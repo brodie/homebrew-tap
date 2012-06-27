@@ -4,7 +4,7 @@ def build_bindings?
   ARGV.include? '--with-bindings' or (MacOS.lion? and not ARGV.include? '--without-bindings')
 end
 
-class Graphviz < Formula
+class BrodieGraphviz < Formula
   homepage 'http://graphviz.org/'
   url 'http://www.graphviz.org/pub/graphviz/stable/SOURCES/graphviz-2.28.0.tar.gz'
   md5 '8d26c1171f30ca3b1dc1b429f7937e58'

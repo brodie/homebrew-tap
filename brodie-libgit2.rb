@@ -1,6 +1,6 @@
 require 'formula'
 
-class Libgit2 < Formula
+class BrodieLibgit2 < Formula
   homepage 'http://libgit2.github.com/'
   url 'https://bitbucket.org/brodie/libgit2/get/682408110fb6fb02b55a91654254f2c187a47f06.tar.gz'
   md5 'f0519d70fb670510d0ffb802ec4d9e4f'
