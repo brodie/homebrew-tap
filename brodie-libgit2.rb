@@ -4,6 +4,7 @@ class BrodieLibgit2 < Formula
   homepage 'http://libgit2.github.com/'
   url 'https://github.com/libgit2/libgit2/archive/cc3d961bd949f11ad90fd4bb513bbc089f6cb61a.tar.gz'
   sha1 '14056735930fbef84820651b22931ec1c276fb82'
+  version '0.20.0-1-cc3d961'
 
   head 'https://github.com/libgit2/libgit2.git', :branch => 'development'
 
