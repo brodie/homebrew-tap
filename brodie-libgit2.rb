@@ -2,8 +2,8 @@ require 'formula'
 
 class BrodieLibgit2 < Formula
   homepage 'http://libgit2.github.com/'
-  url 'https://github.com/libgit2/libgit2/archive/1e94df08dad9437164ac7727f23a51591b7c42f4.tar.gz'
-  sha1 '0d731cc521a4e05d5b6e9bb6bf05c3d95864b814'
+  url 'https://github.com/libgit2/libgit2/archive/cc3d961bd949f11ad90fd4bb513bbc089f6cb61a.tar.gz'
+  sha1 '14056735930fbef84820651b22931ec1c276fb82'
 
   head 'https://github.com/libgit2/libgit2.git', :branch => 'development'
 
